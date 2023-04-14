@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/HousemateFinder/app/src/main/res/drawable/border.xml" value="0.1615" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/HousemateFinder/app/src/main/res/layout/activity_edit_profile.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/HousemateFinder/app/src/main/res/layout/activity_edit_room.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/HousemateFinder/app/src/main/res/layout/activity_housemate_finder_home.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/HousemateFinder/app/src/main/res/layout/activity_housemate_finder_profile.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/HousemateFinder/app/src/main/res/layout/activity_housemate_profile.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/HousemateFinder/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/HousemateFinder/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/HousemateFinder/app/src/main/res/layout/activity_register_type.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/HousemateFinder/app/src/main/res/layout/activity_room_finder_home.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/HousemateFinder/app/src/main/res/layout/activity_room_finder_profile.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/HousemateFinder/app/src/main/res/layout/activity_room_profile.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/HousemateFinder/app/src/main/res/layout/border.xml" value="0.15208333333333332" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/HousemateFinder/app/src/main/res/layout/borders.xml" value="0.15208333333333332" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/HousemateFinder/app/src/main/res/layout/custom_room_row.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/HousemateFinder/app/src/main/res/layout/custom_row.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/HousemateFinder/app/src/main/res/layout/fragment_blank.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/HousemateFinder/app/src/main/res/layout/fragment_list.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/HousemateFinder/app/src/main/res/layout/fragment_list_list.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/HousemateFinder/app/src/main/res/layout/fragment_register.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/HousemateFinder/app/src/main/res/layout/fragment_register_type.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/HousemateFinder/app/src/main/res/layout/main_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/HousemateFinder/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1615" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
